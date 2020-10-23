@@ -1,0 +1,38 @@
+h3 {
+  position: absolute;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 37px;
+  color: #FF0000;
+}
+p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 24px;
+}
+h1 {
+  position: absolute;
+  width: 664px;
+  height: 111px;
+  left: 97px;
+  top: 57px;
+  font-weight: bold;
+  font-size: 83px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  /* border: 1px solid #FFFFFF; */
+  color: white;
+}
+h2 {position: absolute;
+  /* width: 557px; */
+  height: 56px;
+  left: 539px;
+  top: 266px;
+  font-weight: bold;
+  font-size: 43px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: #FFFFFF;
+}
